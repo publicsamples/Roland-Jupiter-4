@@ -1,0 +1,98 @@
+// this file was generated from Wibble Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=341 loop_mode=loop_sustain loop_start=274165 loop_end=350739 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=442 loop_mode=loop_sustain loop_start=278013 loop_end=373534 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=499 loop_mode=loop_sustain loop_start=334733 loop_end=385935 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=384 end=443134 loop_mode=loop_sustain loop_start=301903 loop_end=386889 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=688 end=443513 loop_mode=loop_sustain loop_start=191531 loop_end=280588 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=489 end=443377 loop_mode=loop_sustain loop_start=343231 loop_end=388345 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=307 loop_mode=loop_sustain loop_start=206638 loop_end=382815 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=368 loop_mode=loop_sustain loop_start=279730 loop_end=330812 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=703 loop_mode=loop_sustain loop_start=267743 loop_end=393674 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=635 end=443545 loop_mode=loop_sustain loop_start=324661 loop_end=391395 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=335 end=443252 loop_mode=loop_sustain loop_start=306274 loop_end=352380 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=694 end=442891 loop_mode=loop_sustain loop_start=298116 loop_end=351713 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=683 loop_mode=loop_sustain loop_start=198180 loop_end=390005 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=290 loop_mode=loop_sustain loop_start=294956 loop_end=349230 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=699 end=443519 loop_mode=loop_sustain loop_start=296115 loop_end=351020 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=630 end=442971 loop_mode=loop_sustain loop_start=285566 loop_end=331580 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=466 end=442858 loop_mode=loop_sustain loop_start=334374 loop_end=384459 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=749 loop_mode=loop_sustain loop_start=341139 loop_end=395547 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=621 end=443251 loop_mode=loop_sustain loop_start=337284 loop_end=391561 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=306 end=443075 loop_mode=loop_sustain loop_start=300149 loop_end=350425 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=535 loop_mode=loop_sustain loop_start=328736 loop_end=378889 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=407 end=443122 loop_mode=loop_sustain loop_start=344566 loop_end=395099 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=608 end=443250 loop_mode=loop_sustain loop_start=332868 loop_end=386723 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=447 loop_mode=loop_sustain loop_start=330711 loop_end=380794 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=717 end=442503 loop_mode=loop_sustain loop_start=340127 loop_end=390246 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-72-127.aif
+<group>lokey=73 hikey=74 pitch_keycenter=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=681 end=443260 loop_mode=loop_sustain loop_start=327710 loop_end=377522 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-73-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=626 end=443391 loop_mode=loop_sustain loop_start=333402 loop_end=383537 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=348 loop_mode=loop_sustain loop_start=338390 loop_end=388547 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=725 loop_mode=loop_sustain loop_start=338379 loop_end=388705 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=591 loop_mode=loop_sustain loop_start=343285 loop_end=393691 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=517 end=442347 loop_mode=loop_sustain loop_start=326945 loop_end=377278 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=616 end=442873 loop_mode=loop_sustain loop_start=312528 loop_end=362731 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=557 loop_mode=loop_sustain loop_start=341188 loop_end=391314 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=404 end=442263 loop_mode=loop_sustain loop_start=341818 loop_end=391818 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=410 end=442367 loop_mode=loop_sustain loop_start=310057 loop_end=360183 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=672 end=442655 loop_mode=loop_sustain loop_start=337013 loop_end=387181 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=382 end=442112 loop_mode=loop_sustain loop_start=333655 loop_end=383791 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=443 end=442347 loop_mode=loop_sustain loop_start=344330 loop_end=394387 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=774 end=443123 loop_mode=loop_sustain loop_start=337907 loop_end=388086 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=744 end=442716 loop_mode=loop_sustain loop_start=346389 loop_end=392479 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=299 end=442210 loop_mode=loop_sustain loop_start=322690 loop_end=372995 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=346 end=441985 loop_mode=loop_sustain loop_start=297794 loop_end=394178 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=369 end=442865 loop_mode=loop_sustain loop_start=309254 loop_end=355268 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=650 end=442535 loop_mode=loop_sustain loop_start=338157 loop_end=384269 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=667 loop_mode=loop_sustain loop_start=347278 loop_end=393309 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=609 loop_mode=loop_sustain loop_start=303223 loop_end=349340 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=695 end=443000 loop_mode=loop_sustain loop_start=319663 loop_end=365645 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=572 loop_mode=loop_sustain loop_start=346988 loop_end=393060 sample=../Audio/Wibble Bass-SAMPLES/Wibble Bass-96-127.aif

@@ -1,0 +1,122 @@
+// this file was generated from PWM Strings.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228542 loop_end=287834 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-36-127-RPJV.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192856 loop_end=277847 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-37-127-QB00.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216875 loop_end=279317 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-38-127-JNW9.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210605 loop_end=276077 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-39-127-JYDJ.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142769 loop_end=188716 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-40-127-L80B.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156660 loop_end=222315 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-41-127-G6Q6.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215925 loop_end=281525 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-42-127-B6Q5.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229523 loop_end=288847 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-43-127-AH5E.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=221522 loop_end=280979 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-44-127-USQ0.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=216315 loop_end=281823 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-45-127-7BE7.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223633 loop_end=289297 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-46-127-KKOP.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228034 loop_end=287330 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-47-127-YIHQ.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=41706 loop_end=100703 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-48-127-9IU6.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230375 loop_end=289503 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-49-127-I708.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197680 loop_end=249953 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-50-127-JQ61.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229530 loop_end=288886 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-51-127-NXGM.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229055 loop_end=288352 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-52-127-GEZ7.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203184 loop_end=262280 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-53-127-C1ZM.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207133 loop_end=266312 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-54-127-WEZA.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215724 loop_end=275015 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-55-127-ZH40.aif
+<group>lokey=56 hikey=57 pitch_keycenter=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228448 loop_end=287975 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-56-127-XNL5.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229754 loop_end=288800 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-58-127-C7DB.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207775 loop_end=260342 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-59-127-A25D.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228144 loop_end=287387 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-60-127-7N8J.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231321 loop_end=290734 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-61-127-479Y.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228165 loop_end=287348 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-62-127-AE7C.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229105 loop_end=288417 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-63-127-NARB.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231188 loop_end=290520 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-64-127-ENMS.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228673 loop_end=287937 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-65-127-OUZY.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229066 loop_end=288210 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-66-127-QYY9.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=194939 loop_end=247989 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-67-127-WJRD.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208821 loop_end=268090 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-68-127-BF3G.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214836 loop_end=274106 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-69-127-Q9N8.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230091 loop_end=289334 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-70-127-GMW6.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223123 loop_end=282462 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-71-127-53OF.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218218 loop_end=277575 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-72-127-V22C.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227451 loop_end=286899 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-73-127-I4O1.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=231321 loop_end=290532 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-74-127-DBZD.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=195839 loop_end=255122 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-75-127-WP7O.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211037 loop_end=270372 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-76-127-TSBL.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214263 loop_end=273489 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-77-127-4KVL.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188508 loop_end=248000 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-78-127-09YR.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=213177 loop_end=272405 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-79-127-VT8N.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212112 loop_end=271441 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-80-127-FFIV.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229418 loop_end=288880 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-81-127-RE1P.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=193952 loop_end=246831 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-82-127-XEOI.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211299 loop_end=270698 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-83-127-WBPR.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=181336 loop_end=233396 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-84-127-0X68.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=124137 loop_end=163923 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-85-127-D561.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110694 loop_end=149987 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-86-127-2I16.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=90166 loop_end=122976 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-87-127-K7ZV.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=93104 loop_end=132700 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-88-127-PR2L.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=107675 loop_end=147513 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-89-127-VBO0.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=99433 loop_end=139318 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-90-127-FA4E.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143455 loop_end=189583 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-91-127-X2EB.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=174134 loop_end=226510 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-92-127-JAFL.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=175126 loop_end=227375 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-93-127-VAKK.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=162951 loop_end=209090 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-94-127-Z8IA.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=201843 loop_end=261227 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-95-127-KPYX.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157759 loop_end=203853 sample=../Audio/PWM Strings-SAMPLES/PWM Strings-96-127-PKOX.aif

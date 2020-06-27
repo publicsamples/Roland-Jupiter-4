@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Fake Flute.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=16 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=861 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=928 end=433418 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=883 end=427260 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=741 end=426513 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1034 end=432385 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=825 end=432397 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=902 end=425578 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=786 end=425501 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=433 end=431039 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1017 end=430230 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=572 end=424373 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=952 end=423468 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=768 end=428044 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=744 end=426037 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=616 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=830 end=422316 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=716 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=810 end=425247 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=803 end=420369 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=588 end=419841 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=641 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=853 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=618 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=831 end=421293 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=804 end=424194 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=598 end=425767 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=853 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=837 end=421030 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=642 end=426505 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=545 end=424665 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=683 end=422080 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=898 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=619 end=425703 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=848 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=806 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=775 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=886 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=655 end=429140 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=805 end=424519 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=517 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=706 end=428587 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=808 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=993 end=421943 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=516 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=507 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=779 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=989 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=927 end=420936 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=996 end=426270 sample=../Audio/jp4 - Fake Flute-SAMPLES/jp4 - Fake Flute-96-127.aif

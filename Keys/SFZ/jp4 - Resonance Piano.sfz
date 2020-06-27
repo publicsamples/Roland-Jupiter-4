@@ -1,0 +1,6 @@
+// this file was generated from jp4 - Resonance Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=5 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/jp4 - Resonance Piano-SAMPLES/jp4 - Resonance Piano-48-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1

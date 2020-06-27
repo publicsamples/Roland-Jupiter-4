@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Swishy Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=15 hikey=36 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-48-127.aif
+<group>lokey=37 hikey=37 pitch_keycenter=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=567101 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-49-127.aif
+<group>lokey=38 hikey=38 pitch_keycenter=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=543993 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-50-127.aif
+<group>lokey=39 hikey=39 pitch_keycenter=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=552811 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-51-127.aif
+<group>lokey=40 hikey=40 pitch_keycenter=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=546390 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-52-127.aif
+<group>lokey=41 hikey=41 pitch_keycenter=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-53-127.aif
+<group>lokey=42 hikey=42 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-54-127.aif
+<group>lokey=43 hikey=43 pitch_keycenter=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-55-127.aif
+<group>lokey=44 hikey=44 pitch_keycenter=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=561409 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-56-127.aif
+<group>lokey=45 hikey=45 pitch_keycenter=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=575761 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-57-127.aif
+<group>lokey=46 hikey=46 pitch_keycenter=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=528155 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-58-127.aif
+<group>lokey=47 hikey=47 pitch_keycenter=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-59-127.aif
+<group>lokey=48 hikey=48 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=547235 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-60-127.aif
+<group>lokey=49 hikey=49 pitch_keycenter=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=568429 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-61-127.aif
+<group>lokey=50 hikey=50 pitch_keycenter=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=570371 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-62-127.aif
+<group>lokey=51 hikey=51 pitch_keycenter=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-63-127.aif
+<group>lokey=52 hikey=52 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=518142 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-64-127.aif
+<group>lokey=53 hikey=53 pitch_keycenter=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-65-127.aif
+<group>lokey=54 hikey=54 pitch_keycenter=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=548225 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-66-127.aif
+<group>lokey=55 hikey=55 pitch_keycenter=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-67-127.aif
+<group>lokey=56 hikey=56 pitch_keycenter=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-68-127.aif
+<group>lokey=57 hikey=57 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-69-127.aif
+<group>lokey=58 hikey=58 pitch_keycenter=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-70-127.aif
+<group>lokey=59 hikey=59 pitch_keycenter=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-71-127.aif
+<group>lokey=60 hikey=60 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=522751 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-72-127.aif
+<group>lokey=61 hikey=61 pitch_keycenter=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-73-127.aif
+<group>lokey=62 hikey=62 pitch_keycenter=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=526398 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-74-127.aif
+<group>lokey=63 hikey=63 pitch_keycenter=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-75-127.aif
+<group>lokey=64 hikey=64 pitch_keycenter=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=548756 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-76-127.aif
+<group>lokey=65 hikey=65 pitch_keycenter=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=552493 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-77-127.aif
+<group>lokey=66 hikey=66 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=530474 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-78-127.aif
+<group>lokey=67 hikey=67 pitch_keycenter=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=532540 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-79-127.aif
+<group>lokey=68 hikey=68 pitch_keycenter=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-80-127.aif
+<group>lokey=69 hikey=69 pitch_keycenter=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=543178 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-81-127.aif
+<group>lokey=70 hikey=70 pitch_keycenter=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-82-127.aif
+<group>lokey=71 hikey=71 pitch_keycenter=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=551592 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-83-127.aif
+<group>lokey=72 hikey=72 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=559617 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-84-127.aif
+<group>lokey=73 hikey=73 pitch_keycenter=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=543801 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-85-127.aif
+<group>lokey=74 hikey=74 pitch_keycenter=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=546274 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-86-127.aif
+<group>lokey=75 hikey=75 pitch_keycenter=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=530567 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-87-127.aif
+<group>lokey=76 hikey=76 pitch_keycenter=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-88-127.aif
+<group>lokey=77 hikey=77 pitch_keycenter=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=563461 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-89-127.aif
+<group>lokey=78 hikey=78 pitch_keycenter=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-90-127.aif
+<group>lokey=79 hikey=79 pitch_keycenter=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=541873 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-91-127.aif
+<group>lokey=80 hikey=80 pitch_keycenter=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=537766 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-92-127.aif
+<group>lokey=81 hikey=81 pitch_keycenter=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=553699 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-93-127.aif
+<group>lokey=82 hikey=82 pitch_keycenter=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=555361 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-94-127.aif
+<group>lokey=83 hikey=83 pitch_keycenter=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=561330 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-95-127.aif
+<group>lokey=84 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 end=550415 sample=../Audio/jp4 - Swishy Piano-SAMPLES/jp4 - Swishy Piano-96-127.aif

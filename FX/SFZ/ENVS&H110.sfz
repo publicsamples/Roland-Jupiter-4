@@ -1,0 +1,149 @@
+// this file was generated from ENVS&H110.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1747 end=741056 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-36-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=667 end=746689 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2043 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-37-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2326 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2103 end=751371 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-38-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1546 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2078 end=725497 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-39-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2295 end=721464 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2271 end=749491 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-40-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2293 end=744112 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1884 end=733310 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-41-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2142 end=714451 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1800 end=755223 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-42-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=36 end=745785 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2061 end=728221 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-43-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2238 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2185 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-44-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1858 end=757554 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1849 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-45-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1400 end=723295 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1778 end=754170 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-46-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1733 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2244 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-47-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2210 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1995 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-48-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1614 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1713 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-49-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=702 end=734534 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1562 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-50-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1716 end=757159 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1933 end=753973 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-51-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1668 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1958 end=742487 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-52-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1971 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1618 end=751881 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-53-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1967 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1730 end=731935 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-54-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2139 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1712 end=745108 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-55-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1957 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2001 end=733295 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-56-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1728 end=739902 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1895 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-57-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2040 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1650 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-58-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1730 end=741252 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1958 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-59-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=830 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2060 end=727938 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-60-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=815 end=787223 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1801 end=799501 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-61-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1843 end=777739 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1555 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-62-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1960 end=849420 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1837 end=709837 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-63-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1987 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1592 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-64-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1599 end=769555 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1976 end=924509 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-65-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=690 end=740011 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1595 end=744116 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-66-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1575 end=782426 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2093 end=1034737 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-67-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1837 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1955 end=752504 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-68-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1837 end=776317 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2178 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-69-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2204 end=785341 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1556 end=772218 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-70-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1959 end=779278 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1775 end=779041 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-71-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2259 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1250 end=735218 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-72-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1810 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1922 end=763266 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-73-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2026 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2280 end=888714 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-74-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1924 end=771372 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1902 end=1075896 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-75-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2258 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=218 end=741553 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-76-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1791 end=782593 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1846 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-77-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2416 end=744514 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1680 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-78-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1951 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1848 end=783447 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-79-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2094 end=741285 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1668 end=742994 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-80-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2136 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1787 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-81-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2102 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=2049 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-82-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1963 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1570 end=763580 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-83-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=2197 end=739247 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 offset=1691 end=740968 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-84-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=1849 sample=../Audio/Vel4S&H 110-SAMPLES/Vel4S&H-84-127.aif

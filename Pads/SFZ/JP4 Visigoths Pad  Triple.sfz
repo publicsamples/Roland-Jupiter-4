@@ -1,0 +1,4 @@
+// this file was generated from JP4 Visigoths Pad  Triple.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=6 offset=1264 end=509122

@@ -1,0 +1,4 @@
+// this file was generated from jp4 - Electronic Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=6 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=351699 loop_end=399892

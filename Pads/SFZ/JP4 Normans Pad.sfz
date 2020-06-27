@@ -1,0 +1,100 @@
+// this file was generated from JP4 Normans Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=13 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336368 loop_end=399828 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-48-127-DIM0.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=325601 loop_end=389068 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-49-127-HO4Z.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330434 loop_end=393942 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-50-127-YPX2.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=309573 loop_end=392427 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-51-127-CMWG.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=313193 loop_end=357231 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-52-127-X8AX.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=330756 loop_end=394248 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-53-127-N9AU.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=299813 loop_end=338828 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-54-127-J5CE.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=337908 loop_end=401436 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-55-127-Z7J5.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=303134 loop_end=386135 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-56-127-A56Y.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=292894 loop_end=336892 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-57-127-0IMX.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=324755 loop_end=388220 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-58-127-GZJZ.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=313217 loop_end=396185 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-59-127-4M8L.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=283106 loop_end=322253 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-60-127-SGEI.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=314566 loop_end=378072 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-61-127-C8AG.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=336722 loop_end=400310 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-62-127-7IHA.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=343988 loop_end=387988 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-63-127-933B.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=333931 loop_end=397468 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-64-127-4GR9.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=320512 loop_end=384068 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-65-127-VFMO.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=285600 loop_end=393069 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-66-127-0CEW.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=246058 loop_end=290024 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-67-127-5L6A.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=314019 loop_end=377565 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-68-127-8Y1T.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=299530 loop_end=343576 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-69-127-N4IA.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=301432 loop_end=345514 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-70-127-X69W.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=323911 loop_end=387444 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-71-127-9XTV.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335078 loop_end=379158 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-72-127-9MHK.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=314579 loop_end=358593 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-73-127-O536.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=252198 loop_end=296202 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-74-127-7XAF.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=349489 loop_end=393516 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-75-127-KPMX.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=248819 loop_end=292867 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-76-127-S463.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=344364 loop_end=388381 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-77-127-J1L8.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=351054 loop_end=395050 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-78-127-6MYP.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=252426 loop_end=296498 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-79-127-68IO.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=326154 loop_end=370201 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-80-127-TOXF.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=350765 loop_end=394798 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-81-127-96P3.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=329335 loop_end=373341 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-82-127-HON4.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=281462 loop_end=325462 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-83-127-744N.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=344716 loop_end=388739 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-84-127-XYIM.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=318286 loop_end=381666 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-85-127-BNIR.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=340494 loop_end=384518 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-86-127-T0SJ.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=320881 loop_end=365023 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-87-127-QY6C.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=353167 loop_end=397287 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-88-127-A4IO.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=338205 loop_end=382251 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-89-127-63CC.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335121 loop_end=379185 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-90-127-AP9J.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=354616 loop_end=398642 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-91-127-TIHI.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=343148 loop_end=387146 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-92-127-T7R9.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=339153 loop_end=383153 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-93-127-VEBG.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=352565 loop_end=396584 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-94-127-R2ET.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=335994 loop_end=379812 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-95-127-1JAM.aif
+<group>lokey=96 hikey=125 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=263362 loop_end=307395 sample=../Audio/JP4 Normans Pad/(2011318 233538)/JP4 Normans Pad-96-127-YNOY.aif

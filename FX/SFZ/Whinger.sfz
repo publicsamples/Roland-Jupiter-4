@@ -1,0 +1,100 @@
+// this file was generated from Whinger.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=14 hikey=48 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=569 end=551680 sample=../Audio/Whinger-SAMPLES/Whinger-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=697 end=539152 sample=../Audio/Whinger-SAMPLES/Whinger-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=881 end=545808 sample=../Audio/Whinger-SAMPLES/Whinger-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=796 end=540553 sample=../Audio/Whinger-SAMPLES/Whinger-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=499 sample=../Audio/Whinger-SAMPLES/Whinger-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=497 sample=../Audio/Whinger-SAMPLES/Whinger-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=867 end=547328 sample=../Audio/Whinger-SAMPLES/Whinger-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=936 end=541702 sample=../Audio/Whinger-SAMPLES/Whinger-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1004 end=546059 sample=../Audio/Whinger-SAMPLES/Whinger-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=510 sample=../Audio/Whinger-SAMPLES/Whinger-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=869 end=547727 sample=../Audio/Whinger-SAMPLES/Whinger-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=745 sample=../Audio/Whinger-SAMPLES/Whinger-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=810 end=546319 sample=../Audio/Whinger-SAMPLES/Whinger-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=863 sample=../Audio/Whinger-SAMPLES/Whinger-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=978 end=548099 sample=../Audio/Whinger-SAMPLES/Whinger-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=697 sample=../Audio/Whinger-SAMPLES/Whinger-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1004 end=546827 sample=../Audio/Whinger-SAMPLES/Whinger-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 sample=../Audio/Whinger-SAMPLES/Whinger-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=910 end=547079 sample=../Audio/Whinger-SAMPLES/Whinger-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=955 end=541826 sample=../Audio/Whinger-SAMPLES/Whinger-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=255 end=545161 sample=../Audio/Whinger-SAMPLES/Whinger-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=812 end=541322 sample=../Audio/Whinger-SAMPLES/Whinger-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=963 end=547200 sample=../Audio/Whinger-SAMPLES/Whinger-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=688 end=542082 sample=../Audio/Whinger-SAMPLES/Whinger-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=870 sample=../Audio/Whinger-SAMPLES/Whinger-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=383 end=540035 sample=../Audio/Whinger-SAMPLES/Whinger-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=915 sample=../Audio/Whinger-SAMPLES/Whinger-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=863 sample=../Audio/Whinger-SAMPLES/Whinger-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=863 end=550528 sample=../Audio/Whinger-SAMPLES/Whinger-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 sample=../Audio/Whinger-SAMPLES/Whinger-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=579 sample=../Audio/Whinger-SAMPLES/Whinger-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=971 sample=../Audio/Whinger-SAMPLES/Whinger-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=940 sample=../Audio/Whinger-SAMPLES/Whinger-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=896 sample=../Audio/Whinger-SAMPLES/Whinger-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=627 end=545456 sample=../Audio/Whinger-SAMPLES/Whinger-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=882 end=540673 sample=../Audio/Whinger-SAMPLES/Whinger-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=861 end=545417 sample=../Audio/Whinger-SAMPLES/Whinger-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=767 sample=../Audio/Whinger-SAMPLES/Whinger-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=598 sample=../Audio/Whinger-SAMPLES/Whinger-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=878 sample=../Audio/Whinger-SAMPLES/Whinger-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=873 sample=../Audio/Whinger-SAMPLES/Whinger-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=645 sample=../Audio/Whinger-SAMPLES/Whinger-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=670 sample=../Audio/Whinger-SAMPLES/Whinger-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=857 end=540672 sample=../Audio/Whinger-SAMPLES/Whinger-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=965 sample=../Audio/Whinger-SAMPLES/Whinger-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=705 sample=../Audio/Whinger-SAMPLES/Whinger-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1026 end=545956 sample=../Audio/Whinger-SAMPLES/Whinger-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=1014 end=539526 sample=../Audio/Whinger-SAMPLES/Whinger-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 offset=902 end=544768 sample=../Audio/Whinger-SAMPLES/Whinger-96-127.aif
