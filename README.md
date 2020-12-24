@@ -27,15 +27,8 @@ A large Collection of sounds from a modular synthesiser. Featuring a Eurorack sy
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a [list of compatible instruments.](https://sfzformat.com/software/players/) 
 
-# Help out
-  
-Hey you! Yes, you with the sampler! This project really needs your help! 
+# Disks
 
- - New formats. Currently only EXS24, Kontakt & SFZ are supported. 
- - The SFZ files are largely untested. 
- - New sounds!
- 
- If you'd like to get involved take a look at the issues page or get in [touch via email](mailto:modularsamples@gmail.com) to discuss the project.
-
-#
-[Patreon](https://www.patreon.com/modularsamples) - [Buy an SSD](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+[
+![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+](https://gum.co/modularsamples-drives)
