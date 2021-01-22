@@ -1,0 +1,242 @@
+// this file was generated from JP4 2 x Greeks.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=17 hikey=48 pitch_keycenter=48 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=350966 loop_end=389893 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-48-64-35ZJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=338724 loop_end=400096 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-48-127-00DL.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=350966 loop_end=389893 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-48-64-35ZJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=338724 loop_end=400096 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-48-127-00DL.aif
+<group> key=49 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=358600 loop_end=395478 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-49-64-U28Y.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=338938 loop_end=400391 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-49-127-6BVU.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=358600 loop_end=395478 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-49-64-U28Y.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=338938 loop_end=400391 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-49-127-6BVU.aif
+<group> key=50 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=343038 loop_end=387889 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-50-64-97K0.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=291614 loop_end=332636 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-50-127-IAJ7.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=343038 loop_end=387889 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-50-64-97K0.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=291614 loop_end=332636 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-50-127-IAJ7.aif
+<group> key=51 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=353564 loop_end=389826 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-51-64-3F3L.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=317936 loop_end=399808 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-51-127-X9BI.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=353564 loop_end=389826 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-51-64-3F3L.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=317936 loop_end=399808 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-51-127-X9BI.aif
+<group> key=52 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=360914 loop_end=401413 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-52-64-Y19R.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=324923 loop_end=386388 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-52-127-TO9G.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=360914 loop_end=401413 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-52-64-Y19R.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=324923 loop_end=386388 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-52-127-TO9G.aif
+<group> key=53 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=323929 loop_end=365327 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-53-64-OEZX.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=329885 loop_end=391270 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-53-127-Y3H3.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=323929 loop_end=365327 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-53-64-OEZX.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=329885 loop_end=391270 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-53-127-Y3H3.aif
+<group> key=54 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=346023 loop_end=385907 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-54-64-5D93.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=343112 loop_end=384195 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-54-127-7HCX.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=346023 loop_end=385907 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-54-64-5D93.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=343112 loop_end=384195 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-54-127-7HCX.aif
+<group> key=55 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=342962 loop_end=380750 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-55-64-MQE5.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=296868 loop_end=338121 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-55-127-CX7B.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=342962 loop_end=380750 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-55-64-MQE5.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=296868 loop_end=338121 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-55-127-CX7B.aif
+<group> key=56 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=358301 loop_end=398064 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-56-64-40H5.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=350550 loop_end=391786 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-56-127-DVH6.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=358301 loop_end=398064 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-56-64-40H5.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=350550 loop_end=391786 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-56-127-DVH6.aif
+<group> key=57 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=352868 loop_end=391341 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-57-64-L6SN.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=343927 loop_end=385075 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-57-127-FHYA.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=352868 loop_end=391341 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-57-64-L6SN.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=343927 loop_end=385075 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-57-127-FHYA.aif
+<group> key=58 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=360138 loop_end=401599 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-58-64-LV4E.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=350668 loop_end=391542 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-58-127-ESK6.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=360138 loop_end=401599 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-58-64-LV4E.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=350668 loop_end=391542 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-58-127-ESK6.aif
+<group> key=59 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=361442 loop_end=400007 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-59-64-5BC3.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=348387 loop_end=389685 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-59-127-CDAM.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=361442 loop_end=400007 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-59-64-5BC3.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=348387 loop_end=389685 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-59-127-CDAM.aif
+<group> key=60 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=348327 loop_end=386948 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-60-64-K6DA.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=346494 loop_end=387598 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-60-127-D7UL.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=348327 loop_end=386948 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-60-64-K6DA.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=346494 loop_end=387598 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-60-127-D7UL.aif
+<group> key=61 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=353235 loop_end=389504 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-61-64-6H7V.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=314934 loop_end=355856 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-61-127-DB5O.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=353235 loop_end=389504 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-61-64-6H7V.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=314934 loop_end=355856 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-61-127-DB5O.aif
+<group> key=62 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=357120 loop_end=393924 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-62-64-7G3J.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=349978 loop_end=391372 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-62-127-00SK.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=357120 loop_end=393924 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-62-64-7G3J.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=349978 loop_end=391372 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-62-127-00SK.aif
+<group> key=63 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=341353 loop_end=377920 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-63-64-EKRJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=316952 loop_end=357941 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-63-127-B8TN.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=341353 loop_end=377920 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-63-64-EKRJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=316952 loop_end=357941 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-63-127-B8TN.aif
+<group> key=64 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=350823 loop_end=388170 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-64-64-7QR9.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=346035 loop_end=387194 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-64-127-3QC7.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=350823 loop_end=388170 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-64-64-7QR9.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=346035 loop_end=387194 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-64-127-3QC7.aif
+<group> key=65 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=346378 loop_end=384032 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-65-64-OUIM.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=320359 loop_end=361443 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-65-127-IPPZ.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=346378 loop_end=384032 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-65-64-OUIM.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=320359 loop_end=361443 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-65-127-IPPZ.aif
+<group> key=66 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=351815 loop_end=393413 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-66-64-4W7Q.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267891 loop_end=309066 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-66-127-5XTS.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=351815 loop_end=393413 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-66-64-4W7Q.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=267891 loop_end=309066 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-66-127-5XTS.aif
+<group> key=67 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=334040 loop_end=370291 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-67-64-HJE3.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=270449 loop_end=400499 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-67-127-PRD3.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=334040 loop_end=370291 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-67-64-HJE3.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=270449 loop_end=400499 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-67-127-PRD3.aif
+<group> key=68 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=358605 loop_end=393972 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-68-64-WHCI.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=358579 loop_end=399489 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-68-127-1GBP.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=358605 loop_end=393972 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-68-64-WHCI.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=358579 loop_end=399489 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-68-127-1GBP.aif
+<group> key=69 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=340387 loop_end=381109 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-69-64-DK24.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=352936 loop_end=393962 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-69-127-PRL8.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=340387 loop_end=381109 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-69-64-DK24.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=352936 loop_end=393962 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-69-127-PRL8.aif
+<group> key=70 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=361650 loop_end=398256 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-70-64-MQH1.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=360350 loop_end=401503 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-70-127-QUMP.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=361650 loop_end=398256 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-70-64-MQH1.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=360350 loop_end=401503 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-70-127-QUMP.aif
+<group> key=71 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=348620 loop_end=391336 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-71-64-4UB4.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=338400 loop_end=379239 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-71-127-0Z88.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=348620 loop_end=391336 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-71-64-4UB4.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=338400 loop_end=379239 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-71-127-0Z88.aif
+<group> key=72 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=362867 loop_end=401694 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-72-64-N7AD.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=347480 loop_end=388499 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-72-127-2I0D.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=362867 loop_end=401694 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-72-64-N7AD.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=347480 loop_end=388499 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-72-127-2I0D.aif
+<group> key=73 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=355088 loop_end=393455 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-73-64-0I3Z.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=284066 loop_end=325056 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-73-127-BYLH.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=355088 loop_end=393455 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-73-64-0I3Z.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=284066 loop_end=325056 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-73-127-BYLH.aif
+<group> key=74 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=344776 loop_end=387157 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-74-64-WHU8.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=249078 loop_end=289956 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-74-127-G9CE.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=344776 loop_end=387157 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-74-64-WHU8.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=249078 loop_end=289956 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-74-127-G9CE.aif
+<group> key=75 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=282634 loop_end=321214 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-75-64-K085.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=281039 loop_end=322095 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-75-127-M3ZF.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=282634 loop_end=321214 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-75-64-K085.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=281039 loop_end=322095 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-75-127-M3ZF.aif
+<group> key=76 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=355627 loop_end=393652 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-76-64-PYV1.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=343770 loop_end=384848 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-76-127-7WEY.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=355627 loop_end=393652 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-76-64-PYV1.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=343770 loop_end=384848 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-76-127-7WEY.aif
+<group> key=77 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=345773 loop_end=387977 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-77-64-QLKU.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=343697 loop_end=384818 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-77-127-46NE.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=345773 loop_end=387977 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-77-64-QLKU.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=343697 loop_end=384818 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-77-127-46NE.aif
+<group> key=78 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=305627 loop_end=346518 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-78-64-V2UG.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=330649 loop_end=371634 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-78-127-OX0Q.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=305627 loop_end=346518 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-78-64-V2UG.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=330649 loop_end=371634 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-78-127-OX0Q.aif
+<group>lokey=79 hikey=80 pitch_keycenter=79 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=347790 loop_end=391245 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-79-64-XDIB.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=347930 loop_end=388957 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-79-127-6UBX.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=347790 loop_end=391245 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-79-64-XDIB.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=347930 loop_end=388957 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-79-127-6UBX.aif
+<group> key=81 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=357736 loop_end=396541 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-81-64-NSKA.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=326305 loop_end=367158 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-81-127-L47G.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=357736 loop_end=396541 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-81-64-NSKA.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=326305 loop_end=367158 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-81-127-L47G.aif
+<group> key=82 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=353256 loop_end=394195 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-82-64-DRCY.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=294026 loop_end=335021 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-82-127-N3S2.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=353256 loop_end=394195 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-82-64-DRCY.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=294026 loop_end=335021 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-82-127-N3S2.aif
+<group> key=83 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=351802 loop_end=393072 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-83-64-X7RJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=329264 loop_end=370307 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-83-127-E5Q4.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=351802 loop_end=393072 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-83-64-X7RJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=329264 loop_end=370307 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-83-127-E5Q4.aif
+<group> key=84 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=280825 loop_end=319480 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-84-64-HF5X.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=307729 loop_end=348862 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-84-127-NYC7.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=280825 loop_end=319480 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-84-64-HF5X.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=307729 loop_end=348862 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-84-127-NYC7.aif
+<group> key=85 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=253314 loop_end=296841 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-85-64-CNIJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=354298 loop_end=395236 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-85-127-NIR8.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=253314 loop_end=296841 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-85-64-CNIJ.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=354298 loop_end=395236 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-85-127-NIR8.aif
+<group> key=86 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=349598 loop_end=390323 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-86-64-J86I.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=352282 loop_end=393260 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-86-127-CIM1.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=349598 loop_end=390323 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-86-64-J86I.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=352282 loop_end=393260 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-86-127-CIM1.aif
+<group> key=87 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=283268 loop_end=331118 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-87-64-3X8W.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=296759 loop_end=337699 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-87-127-UUG3.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=283268 loop_end=331118 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-87-64-3X8W.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=296759 loop_end=337699 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-87-127-UUG3.aif
+<group> key=88 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=333122 loop_end=374060 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-88-64-Z1EA.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=304727 loop_end=345883 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-88-127-253B.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=333122 loop_end=374060 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-88-64-Z1EA.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=304727 loop_end=345883 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-88-127-253B.aif
+<group> key=89 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=354708 loop_end=397259 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-89-64-TX74.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=331047 loop_end=371996 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-89-127-KAX8.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=354708 loop_end=397259 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-89-64-TX74.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=331047 loop_end=371996 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-89-127-KAX8.aif
+<group> key=90 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=359408 loop_end=399323 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-90-64-BWQR.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=358729 loop_end=399662 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-90-127-DOU7.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=359408 loop_end=399323 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-90-64-BWQR.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=358729 loop_end=399662 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-90-127-DOU7.aif
+<group> key=91 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=356757 loop_end=395112 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-91-64-SM47.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=323955 loop_end=364941 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-91-127-C674.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=356757 loop_end=395112 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-91-64-SM47.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=323955 loop_end=364941 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-91-127-C674.aif
+<group> key=92 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=359909 loop_end=398109 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-92-64-ISCU.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=357630 loop_end=398740 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-92-127-BDDG.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=359909 loop_end=398109 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-92-64-ISCU.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=357630 loop_end=398740 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-92-127-BDDG.aif
+<group> key=93 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=354797 loop_end=394020 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-93-64-P9HH.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=348464 loop_end=389387 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-93-127-BXGF.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=354797 loop_end=394020 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-93-64-P9HH.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=348464 loop_end=389387 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-93-127-BXGF.aif
+<group> key=94 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=339398 loop_end=376490 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-94-64-HTG2.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=275583 loop_end=316580 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-94-127-J70E.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=339398 loop_end=376490 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-94-64-HTG2.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=275583 loop_end=316580 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-94-127-J70E.aif
+<group> key=95 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=346561 loop_end=388863 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-95-64-GHYY.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=350597 loop_end=391614 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-95-127-EP6G.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=346561 loop_end=388863 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-95-64-GHYY.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=350597 loop_end=391614 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-95-127-EP6G.aif
+<group>lokey=96 hikey=126 pitch_keycenter=96 
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 volume=12 loop_mode=loop_sustain loop_start=322879 loop_end=363873 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-96-64-2UGU.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=257300 loop_end=311609 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-96-127-EINL.aif
+	<region> lovel=001 hivel=064 amp_velcurve_064=1 tune=34 volume=12 loop_mode=loop_sustain loop_start=322879 loop_end=363873 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-96-64-2UGU.aif
+	<region> lovel=065 hivel=127  amp_veltrack=0  tune=34 volume=12 loop_mode=loop_sustain loop_start=257300 loop_end=311609 sample=../Audio/JP4 Greeks Pad/(2011320 276)/JP4 Greeks Pad-96-127-EINL.aif

@@ -1,6 +1,0 @@
-// this file was generated from jp4 - facial Exercise.exs using vonred's exs2sfz.py. Trickster goddess incoming.
-
-<group>lokey=1 hikey=36 pitch_keycenter=36 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=301500 loop_end=400871 sample=../Audio/jp4 - facial Exercise-SAMPLES/jp4 - facial Exercise-48-127-VDQC.aif
-<group> key=37 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238037 loop_end=324100

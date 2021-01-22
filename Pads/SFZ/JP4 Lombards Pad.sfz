@@ -1,4 +1,0 @@
-// this file was generated from JP4 Lombards Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
-
-<group>lokey=10 hikey=48 pitch_keycenter=48 pitch_keytrack=1
-	<region> lovel=001 hivel=127 amp_velcurve_127=1 volume=12 loop_mode=loop_sustain loop_start=321422 loop_end=385973

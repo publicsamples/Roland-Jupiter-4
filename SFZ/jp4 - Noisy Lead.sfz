@@ -1,0 +1,100 @@
+// this file was generated from jp4 - Noisy Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=16 hikey=48 pitch_keycenter=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=368 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=428 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=599 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=471 end=266585 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=781 end=266195 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=387 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=742 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=321 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=674 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=323 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=559 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=643 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=637 end=265964 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=683 end=266264 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=489 end=266221 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=654 end=266407 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=698 end=266220 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=340 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=673 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=305 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=560 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=543 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=562 end=266009 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=672 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=629 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=734 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=748 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=347 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=663 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=492 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=404 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=783 end=266261 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=444 end=265772 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=458 end=265919 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=571 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=739 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=664 end=266291 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=634 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=333 end=265759 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=749 end=266154 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=757 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=678 end=266155 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=635 end=266773 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=798 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=736 end=266112 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=409 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=404 end=265757 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=421 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-95-127.aif
+<group>lokey=96 hikey=127 pitch_keycenter=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=589 end=266633 sample=../Audio/jp4 - Noisy Lead-SAMPLES/jp4 - Noisy Lead-96-127.aif

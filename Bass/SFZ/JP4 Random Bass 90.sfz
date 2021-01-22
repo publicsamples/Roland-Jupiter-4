@@ -1,4 +1,0 @@
-// this file was generated from JP4 Random Bass 90.exs using vonred's exs2sfz.py. Trickster goddess incoming.
-
-<group> key=36 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228070 loop_end=353060

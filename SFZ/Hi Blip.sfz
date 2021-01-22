@@ -1,0 +1,100 @@
+// this file was generated from Hi Blip.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=229 end=66765 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-36-127.aif
+<group> key=37 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=246 end=64344 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-37-127.aif
+<group> key=38 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=543 end=66148 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-38-127.aif
+<group> key=39 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=292 end=63140 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-39-127.aif
+<group> key=40 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=261 end=66079 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-40-127.aif
+<group> key=41 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=488 end=64396 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-41-127.aif
+<group> key=42 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=677 end=66001 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-42-127.aif
+<group> key=43 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=790 end=64509 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-43-127.aif
+<group> key=44 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=599 end=67501 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-44-127.aif
+<group> key=45 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=650 end=64899 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-45-127.aif
+<group> key=46 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=546 end=65589 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-46-127.aif
+<group> key=47 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=260 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-47-127.aif
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=307 end=66635 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=482 end=64841 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=632 end=66186 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=499 end=63433 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=547 end=66251 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=424 end=64851 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=364 end=66059 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=725 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=674 end=67527 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=309 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=313 end=66347 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=376 end=63344 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=295 end=66662 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=419 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=407 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=502 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=693 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=550 end=63940 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=337 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=481 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=434 end=66040 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=532 end=63612 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=523 end=65429 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=283 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-71-127.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=297 end=65817 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-72-127.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=500 end=63526 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-73-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=676 end=65335 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=391 end=61777 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=427 end=65028 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=285 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=704 end=63908 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=240 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=434 end=64769 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=675 end=61717 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=365 end=63016 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=622 end=61203 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  offset=816 end=63873 sample=../Audio/Hi Blip-SAMPLES/Hi Blip-84-127.aif

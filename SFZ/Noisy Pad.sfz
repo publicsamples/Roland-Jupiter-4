@@ -1,0 +1,98 @@
+// this file was generated from Noisy Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14045 end=443816 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-48-127.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=3 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-49-127.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17340 end=441735 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-50-127.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17054 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-51-127.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=21449 end=442357 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-52-127.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=18053 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-53-127.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=25534 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-54-127.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17361 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-55-127.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=21196 end=439171 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-56-127.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17379 end=442340 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-57-127.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17745 end=442217 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-58-127.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=22044 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-59-127.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16530 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-60-127.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=19723 end=391781 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-61-127.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=20146 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-62-127.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17046 end=437506 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-63-127.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16360 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-64-127.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=18051 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-65-127.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16963 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-66-127.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14892 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-67-127.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17762 end=441223 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-68-127.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17963 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-69-127.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=24495 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-70-127.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17647 end=418686 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-71-127.aif
+<group>lokey=72 hikey=73 pitch_keycenter=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15454 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-72-127.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16509 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-74-127.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16656 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-75-127.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15716 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-76-127.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=19799 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-77-127.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15963 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-78-127.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=27272 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-79-127.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=21615 end=441617 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-80-127.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=18280 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-81-127.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15931 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-82-127.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14146 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-83-127.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16437 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-84-127.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14283 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-85-127.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15528 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-86-127.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17094 end=443736 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-87-127.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=13992 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-88-127.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15187 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-89-127.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14283 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-90-127.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14422 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-91-127.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=21275 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-92-127.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=28061 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-93-127.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=27456 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-94-127.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=22089 end=443155 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-95-127.aif
+<group> key=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=72 sample=../Audio/Noisy Pad-SAMPLES/Noisy Lead-96-127.aif

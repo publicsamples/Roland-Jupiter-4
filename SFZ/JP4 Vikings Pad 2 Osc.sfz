@@ -1,0 +1,149 @@
+// this file was generated from JP4 Vikings Pad 2 Osc.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=15 hikey=48 pitch_keycenter=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=309209 loop_end=400404 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-48-127-KOJ1.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=309209 loop_end=400404 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-48-127-KOJ1.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=309455 loop_end=400569 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-49-127-03C3.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=309455 loop_end=400569 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-49-127-03C3.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=296755 loop_end=387886 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-50-127-7QJM.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=296755 loop_end=387886 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-50-127-7QJM.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=304937 loop_end=342981 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-51-127-HR76.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=304937 loop_end=342981 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-51-127-HR76.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=353729 loop_end=391543 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-52-127-Y1Q7.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=353729 loop_end=391543 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-52-127-Y1Q7.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=359406 loop_end=397347 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-53-127-5KQE.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=359406 loop_end=397347 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-53-127-5KQE.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=363596 loop_end=401449 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-54-127-Q8MZ.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=363596 loop_end=401449 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-54-127-Q8MZ.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=357056 loop_end=394932 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-55-127-V7OB.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=357056 loop_end=394932 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-55-127-V7OB.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=341890 loop_end=395182 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-56-127-L0HZ.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=341890 loop_end=395182 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-56-127-L0HZ.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=342008 loop_end=380158 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-57-127-FLSY.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=342008 loop_end=380158 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-57-127-FLSY.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=344933 loop_end=382967 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-58-127-LWCS.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=344933 loop_end=382967 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-58-127-LWCS.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=344057 loop_end=382006 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-59-127-XMMS.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=344057 loop_end=382006 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-59-127-XMMS.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=330403 loop_end=368357 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-60-127-NRZ8.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=330403 loop_end=368357 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-60-127-NRZ8.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=357845 loop_end=395781 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-61-127-YMT6.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=357845 loop_end=395781 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-61-127-YMT6.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=329774 loop_end=367816 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-62-127-FMKV.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=329774 loop_end=367816 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-62-127-FMKV.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=356460 loop_end=394551 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-63-127-KKB3.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=356460 loop_end=394551 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-63-127-KKB3.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=322638 loop_end=376014 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-64-127-O8JY.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=322638 loop_end=376014 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-64-127-O8JY.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=333242 loop_end=386416 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-65-127-65FL.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=333242 loop_end=386416 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-65-127-65FL.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=345629 loop_end=398864 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-66-127-4I48.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=345629 loop_end=398864 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-66-127-4I48.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=363176 loop_end=401115 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-67-127-PD2D.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=363176 loop_end=401115 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-67-127-PD2D.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=339122 loop_end=392318 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-68-127-PW2W.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=339122 loop_end=392318 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-68-127-PW2W.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=336090 loop_end=389359 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-69-127-F88R.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=336090 loop_end=389359 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-69-127-F88R.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=343071 loop_end=396367 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-70-127-H943.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=343071 loop_end=396367 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-70-127-H943.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=342284 loop_end=395537 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-71-127-MN2M.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=342284 loop_end=395537 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-71-127-MN2M.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=334053 loop_end=387389 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-72-127-VKZE.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=334053 loop_end=387389 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-72-127-VKZE.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=333631 loop_end=386755 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-73-127-XIUM.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=333631 loop_end=386755 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-73-127-XIUM.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=329765 loop_end=382935 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-74-127-7D99.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=329765 loop_end=382935 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-74-127-7D99.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=341488 loop_end=394721 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-75-127-Z9VS.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=341488 loop_end=394721 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-75-127-Z9VS.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=335732 loop_end=389171 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-76-127-Z5FU.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=335732 loop_end=389171 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-76-127-Z5FU.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=326845 loop_end=380156 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-77-127-9NQQ.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=326845 loop_end=380156 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-77-127-9NQQ.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=343505 loop_end=396734 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-78-127-J5DY.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=343505 loop_end=396734 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-78-127-J5DY.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=347826 loop_end=400935 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-79-127-AU0D.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=347826 loop_end=400935 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-79-127-AU0D.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=295336 loop_end=348567 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-80-127-BL94.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=295336 loop_end=348567 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-80-127-BL94.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=309466 loop_end=400598 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-81-127-UPF4.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=309466 loop_end=400598 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-81-127-UPF4.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=305856 loop_end=397079 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-82-127-OJQ5.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=305856 loop_end=397079 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-82-127-OJQ5.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=303602 loop_end=394635 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-83-127-IVHP.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=303602 loop_end=394635 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-83-127-IVHP.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=309520 loop_end=400687 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-84-127-038Y.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=309520 loop_end=400687 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-84-127-038Y.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=309488 loop_end=400553 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-85-127-88SS.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=309488 loop_end=400553 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-85-127-88SS.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=308593 loop_end=399777 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-86-127-7HTP.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=308593 loop_end=399777 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-86-127-7HTP.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=305459 loop_end=396522 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-87-127-ITDB.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=305459 loop_end=396522 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-87-127-ITDB.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=298262 loop_end=389386 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-88-127-7EJH.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=298262 loop_end=389386 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-88-127-7EJH.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=324046 loop_end=361942 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-89-127-MM8N.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=324046 loop_end=361942 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-89-127-MM8N.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=305985 loop_end=397129 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-90-127-TPWF.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=305985 loop_end=397129 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-90-127-TPWF.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=353690 loop_end=391608 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-91-127-WQ7I.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=353690 loop_end=391608 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-91-127-WQ7I.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=339398 loop_end=377204 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-92-127-6NGC.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=339398 loop_end=377204 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-92-127-6NGC.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=338286 loop_end=376188 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-93-127-2RYZ.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=338286 loop_end=376188 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-93-127-2RYZ.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=263605 loop_end=392647 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-94-127-S6VU.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=263605 loop_end=392647 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-94-127-S6VU.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=346525 loop_end=384564 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-95-127-69N5.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=346525 loop_end=384564 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-95-127-69N5.aif
+<group>lokey=96 hikey=122 pitch_keycenter=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=6 loop_mode=loop_sustain loop_start=331165 loop_end=369181 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-96-127-W9A7.aif
+	<region> lovel=001 hivel=127  amp_veltrack=0  tune=27 volume=6 loop_mode=loop_sustain loop_start=331165 loop_end=369181 sample=../Audio/JP4 Vikings Pad/(2011319 0553)/JP4 Vikings Pad-96-127-W9A7.aif

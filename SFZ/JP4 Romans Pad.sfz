@@ -1,0 +1,100 @@
+// this file was generated from JP4 Romans Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=21 hikey=48 pitch_keycenter=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=240132 loop_end=364108 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-48-127-1VPI.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=252746 loop_end=377410 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-49-127-KF9M.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=274006 loop_end=398102 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-50-127-YCLW.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=237468 loop_end=360292 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-51-127-0U6H.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=249895 loop_end=374013 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-52-127-WSB3.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=229886 loop_end=353133 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-53-127-U87Y.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=265007 loop_end=389169 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-54-127-5KFL.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=270919 loop_end=394658 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-55-127-S4L1.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=238411 loop_end=361578 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-56-127-SPAU.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=266391 loop_end=389924 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-57-127-JC8I.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=276520 loop_end=400702 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-58-127-CME9.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=273709 loop_end=397732 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-59-127-3DQY.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=272124 loop_end=396211 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-60-127-2U4Q.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=239159 loop_end=362722 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-61-127-0Q9P.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=276994 loop_end=400719 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-62-127-070P.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=273023 loop_end=397089 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-63-127-0PGD.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278062 loop_end=401804 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-64-127-W6TH.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=269130 loop_end=393117 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-65-127-MGNZ.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=268086 loop_end=392043 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-66-127-8VRM.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=230574 loop_end=354408 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-67-127-WSDH.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=258749 loop_end=382070 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-68-127-7SK3.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=273006 loop_end=396762 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-69-127-N30E.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=237321 loop_end=361379 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-70-127-AEB9.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278281 loop_end=402063 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-71-127-WCSM.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=271078 loop_end=394937 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-72-127-X9RD.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278418 loop_end=402188 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-73-127-CKUB.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=266916 loop_end=390561 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-74-127-O5LW.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=236138 loop_end=360264 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-75-127-6SMX.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=265132 loop_end=388890 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-76-127-1CQL.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=252822 loop_end=376655 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-77-127-TU6Q.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=260000 loop_end=383840 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-78-127-VMFN.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=275367 loop_end=399210 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-79-127-PH77.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278344 loop_end=402271 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-80-127-VTYD.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278282 loop_end=402301 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-81-127-0SML.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267357 loop_end=318483 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-82-127-S09C.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=270104 loop_end=394001 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-83-127-JFF0.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=254712 loop_end=378520 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-84-127-NIPF.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=243594 loop_end=367404 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-85-127-A6DD.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267975 loop_end=391988 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-86-127-O7ZZ.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=248247 loop_end=284656 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-87-127-0H3M.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=240496 loop_end=364277 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-88-127-4X5C.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=274472 loop_end=398339 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-89-127-YA68.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=240430 loop_end=363810 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-90-127-KE0K.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=253800 loop_end=377620 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-91-127-N521.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=254707 loop_end=378422 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-92-127-XGVA.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=278457 loop_end=402322 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-93-127-N5WS.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=258965 loop_end=309989 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-94-127-75W8.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=248388 loop_end=394255 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-95-127-ZAZS.aif
+<group>lokey=96 hikey=125 pitch_keycenter=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=277378 loop_end=401312 sample=../Audio/JP4 Romans Pad/(2011318 215327)/JP4 Romans Pad-96-127-BOLP.aif

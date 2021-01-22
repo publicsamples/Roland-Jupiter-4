@@ -1,0 +1,100 @@
+// this file was generated from Bold Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=1 hikey=48 pitch_keycenter=48 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=10994 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-48-127_0001.aif
+<group> key=49 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=24379 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-49-127.aif
+<group> key=50 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16000 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-50-127.aif
+<group> key=51 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=13286 end=355985 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-51-127.aif
+<group> key=52 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=18755 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-52-127.aif
+<group> key=53 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15400 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-53-127.aif
+<group> key=54 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=28522 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-54-127.aif
+<group> key=55 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17467 end=272471 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-55-127.aif
+<group> key=56 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12035 end=317964 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-56-127.aif
+<group> key=57 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15118 end=351482 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-57-127.aif
+<group> key=58 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17207 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-58-127.aif
+<group> key=59 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=13487 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-59-127.aif
+<group> key=60 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=11983 end=318489 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-60-127.aif
+<group> key=61 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=13834 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-61-127.aif
+<group> key=62 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14331 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-62-127.aif
+<group> key=63 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12213 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-63-127.aif
+<group> key=64 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=13292 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-64-127.aif
+<group> key=65 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=11328 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-65-127.aif
+<group> key=66 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=10409 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-66-127.aif
+<group> key=67 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12701 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-67-127.aif
+<group> key=68 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15585 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-68-127.aif
+<group> key=69 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=18804 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-69-127.aif
+<group> key=70 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15098 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-70-127.aif
+<group> key=71 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15322 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-71-127.aif
+<group> key=72 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16560 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-72-127.aif
+<group> key=73 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12137 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-73-127.aif
+<group> key=74 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12420 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-74-127.aif
+<group> key=75 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=17684 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-75-127.aif
+<group> key=76 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=16775 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-76-127.aif
+<group> key=77 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12001 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-77-127.aif
+<group> key=78 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=11291 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-78-127.aif
+<group> key=79 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=15426 end=356494 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-79-127.aif
+<group> key=80 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=10969 end=324967 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-80-127.aif
+<group> key=81 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=20402 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-81-127.aif
+<group> key=82 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12474 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-82-127.aif
+<group> key=83 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12509 end=345335 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-83-127.aif
+<group> key=84 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12770 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-84-127.aif
+<group> key=85 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14712 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-85-127.aif
+<group> key=86 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14538 end=277106 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-86-127.aif
+<group> key=87 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12351 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-87-127.aif
+<group> key=88 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=10365 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-88-127.aif
+<group> key=89 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=9804 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-89-127.aif
+<group> key=90 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12380 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-90-127.aif
+<group> key=91 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14180 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-91-127.aif
+<group> key=92 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=10955 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-92-127.aif
+<group> key=93 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=7471 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-93-127.aif
+<group> key=94 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=20731 end=357346 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-94-127.aif
+<group> key=95 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=14446 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-95-127.aif
+<group>lokey=96 hikey=120 pitch_keycenter=96 pan=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 offset=12477 sample=../Audio/Bold Lead-SAMPLES/Bold Lead-96-127.aif

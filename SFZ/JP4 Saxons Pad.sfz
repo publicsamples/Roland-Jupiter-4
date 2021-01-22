@@ -1,0 +1,100 @@
+// this file was generated from JP4 Saxons Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=48 pitch_keycenter=48 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=241866 loop_end=347386 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-48-127-F281.aif
+<group> key=49 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=253620 loop_end=359328 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-49-127-R46X.aif
+<group> key=50 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=257098 loop_end=362518 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-50-127-DJ9L.aif
+<group> key=51 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=246659 loop_end=338834 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-51-127-2VEP.aif
+<group> key=52 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=232886 loop_end=338456 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-52-127-XXW2.aif
+<group> key=53 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=218761 loop_end=324432 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-53-127-FCLT.aif
+<group> key=54 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=257947 loop_end=363047 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-54-127-JGBG.aif
+<group> key=55 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=258866 loop_end=364403 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-55-127-C60Q.aif
+<group> key=56 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=256987 loop_end=362306 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-56-127-XPSQ.aif
+<group> key=57 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=253738 loop_end=359288 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-57-127-D37P.aif
+<group> key=58 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=258896 loop_end=364221 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-58-127-OH0T.aif
+<group> key=59 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=269911 loop_end=362259 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-59-127-CXRV.aif
+<group> key=60 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267839 loop_end=360182 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-60-127-HZJC.aif
+<group> key=61 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=260722 loop_end=352795 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-61-127-VENQ.aif
+<group> key=62 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=271995 loop_end=364298 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-62-127-8RUQ.aif
+<group> key=63 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267558 loop_end=359849 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-63-127-26BI.aif
+<group> key=64 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=272079 loop_end=364326 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-64-127-UI2I.aif
+<group> key=65 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=255752 loop_end=347865 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-65-127-5SSA.aif
+<group> key=66 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267606 loop_end=359735 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-66-127-TES8.aif
+<group> key=67 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=255478 loop_end=347699 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-67-127-JTBY.aif
+<group> key=68 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=260672 loop_end=352929 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-68-127-W7MU.aif
+<group> key=69 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=264847 loop_end=357045 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-69-127-UFM1.aif
+<group> key=70 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=268825 loop_end=361042 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-70-127-OXHX.aif
+<group> key=71 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=271282 loop_end=363434 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-71-127-PTFI.aif
+<group> key=72 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=271317 loop_end=363498 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-72-127-WEQO.aif
+<group> key=73 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=265863 loop_end=358002 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-73-127-SJUD.aif
+<group> key=74 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=263553 loop_end=355638 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-74-127-4QBW.aif
+<group> key=75 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=246548 loop_end=351883 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-75-127-PMIP.aif
+<group> key=76 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267065 loop_end=359289 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-76-127-2T30.aif
+<group> key=77 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=271109 loop_end=363343 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-77-127-X366.aif
+<group> key=78 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=268027 loop_end=360163 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-78-127-AUEW.aif
+<group> key=79 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=229935 loop_end=322114 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-79-127-SG9Z.aif
+<group> key=80 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=270266 loop_end=362482 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-80-127-XPZ8.aif
+<group> key=81 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=263032 loop_end=355293 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-81-127-34TA.aif
+<group> key=82 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=272050 loop_end=364239 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-82-127-E608.aif
+<group> key=83 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=268253 loop_end=360357 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-83-127-H5QW.aif
+<group> key=84 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=271307 loop_end=363550 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-84-127-QEOL.aif
+<group> key=85 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=266915 loop_end=359090 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-85-127-F3HI.aif
+<group> key=86 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=269840 loop_end=362041 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-86-127-F3MU.aif
+<group> key=87 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=272021 loop_end=364358 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-87-127-CE1B.aif
+<group> key=88 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=269962 loop_end=362201 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-88-127-SMKS.aif
+<group> key=89 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=261975 loop_end=354063 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-89-127-UN3U.aif
+<group> key=90 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267922 loop_end=360045 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-90-127-CE1V.aif
+<group> key=91 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=267543 loop_end=359803 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-91-127-9UFD.aif
+<group> key=92 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=270122 loop_end=362296 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-92-127-869M.aif
+<group> key=93 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=270334 loop_end=362506 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-93-127-RAVQ.aif
+<group> key=94 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=268114 loop_end=360414 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-94-127-5T53.aif
+<group> key=95 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=268918 loop_end=361190 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-95-127-NBV8.aif
+<group>lokey=96 hikey=121 pitch_keycenter=96 
+	<region> lovel=001 hivel=127  amp_veltrack=0  volume=12 loop_mode=loop_sustain loop_start=266789 loop_end=358974 sample=../Audio/JP4 Saxons Pad/(2011318 213725)/JP4 Saxons Pad-96-127-DNE9.aif
