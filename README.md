@@ -3,6 +3,7 @@
 A large Collection of sounds from a modular synthesiser. Featuring a Eurorack system and a small Dotcom.
 
 -   **Formats:** EXS24, Kontakt & SFZ
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jp4.html)
 
 **This collection requires you to download the audio seperately**
 
