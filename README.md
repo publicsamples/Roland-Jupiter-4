@@ -2,7 +2,7 @@
 
 A large Collection of sounds from a modular synthesiser. Featuring a Eurorack system and a small Dotcom.
 
--   **Formats:** EXS24, Kontakt & SFZ
+-   **Formats:** EXS24, Kontakt, SFZ & Falcon
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jp4.html)
 
 **This collection requires you to download the audio seperately**
@@ -29,6 +29,12 @@ A large Collection of sounds from a modular synthesiser. Featuring a Eurorack sy
 **SFZ**
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a [list of compatible instruments.](https://sfzformat.com/software/players/) 
+
+
+**Falcon**
+
+1. Move the folder "JP4Audio" into "Roland-Jupiter-4"
+2. Load a patch
 
 # Support this project
 
