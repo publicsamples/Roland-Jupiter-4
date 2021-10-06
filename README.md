@@ -4,11 +4,8 @@ A large Collection of sounds from a modular synthesiser. Featuring a Eurorack sy
 
 -   **Formats:** EXS24, Kontakt, SFZ & Falcon
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jp4.html)
-
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/vzlt6o2qmuoik4l/AABzgD-EFidj_TLDMfQfugija?dl=0)
-
+- 
+**[Download Audio](https://github.com/publicsamples/Roland-Jupiter-4/releases/tag/1.0)**
 
 # Loading
 
