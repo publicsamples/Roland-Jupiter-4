@@ -8,13 +8,3 @@ The Roland Jupiter-4 is a legendary analog synthesizer introduced in the late 19
 
 **[Download Audio](https://github.com/publicsamples/Roland-Jupiter-4/releases/tag/1.0)**
 
-## **Get help**
-
-[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
-
-## **Support this project**
-
-[
-![excessivehits](https://www.modularsamples.com/img/ex2.png)
-](https://www.modularsamples.com/excessive-hits-one-shot-sample-library/)
-
